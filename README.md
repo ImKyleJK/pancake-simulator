@@ -7,7 +7,7 @@ Clone or download this repository and open ```index.html``` in your browser of c
 To win, progress through the levels, defeat the mini-boss, and reach the last level to defeat the Evil Waffle.
 
 ### Controls
-Controls    | Keys
+Action      | Key
 ----------- | ----------
 Start       | Space Bar
 Move Up     | W
