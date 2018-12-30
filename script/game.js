@@ -71,7 +71,7 @@ app.game = new ENGINE.Scene
 		var dir = 0;
 		var tx = 0;
 		var ty = 0;
-		var timage = "gayFishLeft";
+		var timage = "fishLeft";
 
 		switch(this.clock.dir)
 		{
@@ -79,25 +79,25 @@ app.game = new ENGINE.Scene
 				dir = 0;
 				tx = 0;
 				ty = app.height / 2 + Math.random() * app.height / 2;
-				timage = "gayFishRight";
+				timage = "fishRight";
 				break;
 			case 1:
 				dir = Math.PI * 0.5;
 				tx = app.width / 2 + Math.random() * app.width / 2;
 				ty = 0;
-				timage = "gayFishLeft";
+				timage = "fishLeft";
 				break;
 			case 2:
 				dir = Math.PI;
 				tx = app.width;
 				ty = Math.random() * app.height / 2;
-				timage = "gayFishLeft";
+				timage = "fishLeft";
 				break;
 			case 3:
 				dir = Math.PI * 1.5;
 				tx = Math.random() * app.width / 2;
 				ty = app.height;
-				timage = "gayFishRight";
+				timage = "fishRight";
 				break;
 		}
 

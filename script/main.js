@@ -8,8 +8,8 @@ var app = new ENGINE.Application
 		this.assets.addImage("butteryMan.png");
 		this.assets.addImage("pancakeHero.png");
 		this.assets.addImage("pancakeWizard.png");
-		this.assets.addImage("gayFishLeft.png");
-		this.assets.addImage("gayFishRight.png");
+		this.assets.addImage("fishLeft.png");
+		this.assets.addImage("fishRight.png");
 		this.assets.addImage("thereWillBeWaffle.png");
 		this.loader.foo(500);
 	},

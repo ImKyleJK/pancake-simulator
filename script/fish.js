@@ -6,7 +6,7 @@
 		x: 0,
 		y: 0,
 		speed: Math.random() * 100 + 150,
-		image: app.assets.image("gayFishLeft")
+		image: app.assets.image("fishLeft")
 	}, args);
 };
 
