@@ -9,7 +9,7 @@ To win, progress through the levels, defeat the mini-boss, and reach the last le
 ### Controls
 Action      | Key
 ----------- | ----------
-Start       | Space Bar
+Start Game  | Space Bar
 Move Up     | W
 Move Down   | S
 Move Left   | A
