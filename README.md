@@ -1,5 +1,5 @@
 # Pancake Simulator
-## The Best Pancake Game You've Ever Played
+## The Best Pancake Game You've (N)Ever Played
 Made during the 24-hour HackFSU hack-a-thon at Florida State University in 2014 in collaboration with Nicholas Madariaga.
 
 ### To Play
