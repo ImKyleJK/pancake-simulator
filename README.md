@@ -1,6 +1,6 @@
 # Pancake Simulator
 ## The Best Pancake Game You've (N)ever Played
-Made during the 24-hour HackFSU hack-a-thon at Florida State University in 2014 in collaboration with Nicholas Madariaga.
+Made during HackFSU, the annual 24-hour hack-a-thon hosted by Florida State University, in 2014 in collaboration with Nicholas Madariaga.
 
 ### To Play
 Clone or download this repository and open ```index.html``` in your browser of choice.
